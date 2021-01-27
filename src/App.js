@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import Particles from 'react-particles-js';
-import Clarifai, { FACE_DETECT_MODEL } from 'clarifai';
+import Clarifai from 'clarifai';
 import FaceRecognition from './components/FaceRecognition/FaceRecognition'
 import Naviagtion from './components/Naviagation/Naviagation';
 import Signin from './components/Signin/Signin';
